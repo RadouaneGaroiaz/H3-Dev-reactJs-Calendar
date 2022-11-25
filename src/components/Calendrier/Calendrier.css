@@ -1,0 +1,19 @@
+
+.prev:hover{
+    color:rgb(255, 238, 0);
+    
+}
+.next:hover{
+    color:rgb(255, 238, 0);
+}
+.body-table .item-tab:hover{
+   
+    background-color: rgb(255, 238, 0);
+    cursor: pointer;
+    position: relative;
+    animation: shakeY;
+    animation-duration: 2s;
+   
+
+}
+
